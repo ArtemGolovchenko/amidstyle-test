@@ -7,7 +7,7 @@
     ```
 3. run the application:
    ```sh
-    npm run start:dev
+    npm run start
     ```
 ## Endpoints
 | Endpoint | Function |
